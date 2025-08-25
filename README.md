@@ -9,7 +9,7 @@
 ---
 ### 🚀 About Me
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**
-- 🌐 Passionate about **Web Development** & **Data Analytics**
+- 🌐 Passionate about **Web Development** & **Machine Learning**
 - 📂 Check out my **[Portfolio](https://varun-portfolio-rose.vercel.app)**
 
 ## 🛠️ Technical Skills  
