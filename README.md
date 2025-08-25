@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🚀 Welcome to My GitHub Profile</h1>
-<h3 align="center">💻 Passionate Web Developer | 📊 Data Analytics Enthusiast | 🎨 UI/UX Explorer</h3>
+<h3 align="center">💻 Passionate Web Developer | 📊 Machine Learning Enthusiast | 🎨 UI/UX Explorer</h3>
 
 ---
 ### 🚀 About Me
