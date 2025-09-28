@@ -8,7 +8,7 @@
 
 ---
 ### 🚀 About Me
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
+- 🎓 Currently completed **Master of Computer Applications (MCA)**
 - 🌐 Passionate about **Web Development** & **Machine Learning**
 - 📂 Check out my **[Portfolio](https://porfolio-18bs.vercel.app/)**
 
