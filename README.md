@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 Currently completed **Master of Computer Applications (MCA)**
 - 🌐 Passionate about **Web Development** & **Machine Learning**
-- 📂 Check out my **[Portfolio](https://porfolio-18bs.vercel.app/)**
+- 📂 Check out my **[Portfolio](https://varunmc-portfolio.netlify.app/)**
 
 ## 🛠️ Technical Skills  
 
